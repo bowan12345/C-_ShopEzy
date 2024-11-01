@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ShopEzy.props" />
+</Project>

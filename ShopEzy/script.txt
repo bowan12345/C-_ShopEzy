@@ -1,0 +1,1 @@
+# create a new table's name to database add-migration AddXXXToDatabase  # add a new column to a table ."Rating" : column; "Blog": table's name Add-Migration AddRatingToBlog # remove a column from a table Add-Migration RemoveRatingFromBlog #refresh Update-Database

@@ -1,0 +1,88 @@
+﻿<style>
+    .form-container {
+        max-width: 500px; 
+        margin: auto; 
+        border: 1px solid #dee2e6;
+        border-radius: 8px;
+        padding: 10px; 
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    }
+
+    body {
+        font-family: 'Arial', sans-serif;
+    }
+
+    .form-control {
+        border-radius: 5px;
+        transition: border-color 0.3s;
+        height: 35px; 
+    }
+
+   
+    textarea.form-control {
+        height: 30px; 
+    }
+
+    .form-control:focus {
+        border-color: #007bff;
+        box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+    }
+
+    .btn-primary {
+        border-radius: 5px;
+        transition: background-color 0.3s;
+    }
+
+        .btn-primary:hover {
+            background-color: #0056b3;
+        }
+</style>
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6 form-container">
+            <h2 class="text-center">Register</h2>
+            <form method="post" asp-action="Register" asp-controller="Customer">
+                <div asp-validation-summary="All" class="text-danger mb-3"></div>
+                <div class="form-group mb-3">
+                    <label for="firstname">First Name</label>
+                    <input type="text" class="form-control" id="firstname" name="firstname" placeholder="Enter first name" required>
+                </div>
+                <div class="form-group mb-3">
+                    <label for="lastname">Last Name</label>
+                    <input type="text" class="form-control" id="lastname" name="lastname" placeholder="Enter last name" required>
+                </div>
+                <div class="form-group mb-3">
+                    <label for="email">Email address</label>
+                    <input type="email" class="form-control" id="email" name="email" placeholder="Enter email" required>
+                    <small class="form-text text-muted">Please use a valid email address.</small>
+                </div>
+                <div class="form-group mb-3">
+                    <label for="phonenumber">Phone Number</label>
+                    <input type="text" class="form-control" id="phonenumber" name="phonenumber" placeholder="Enter phone number" required>
+                </div>
+                <div class="form-group mb-3">
+                    <label for="dateofbirth">Date of Birth</label>
+                    <input type="date" class="form-control" id="dateofbirth" name="dateofbirth" required>
+                </div>
+                <div class="form-group mb-3">
+                    <label for="address">Address</label>
+                    <textarea class="form-control" id="address" name="address" placeholder="Enter address" required></textarea>
+                </div>
+                <div class="form-group mb-3">
+                    <label for="password">Password</label>
+                    <input type="password" class="form-control" id="password" name="password" placeholder="Password" required>
+                </div>
+                <div class="form-group mb-3">
+                    <label for="confirmPassword">Confirm Password</label>
+                    <input type="password" class="form-control" id="confirmPassword" name="confirmPassword" placeholder="Confirm Password" required>
+                </div>
+                <button id="RegisterButton" type="submit" class="btn btn-primary btn-block mt-3">Register</button>
+            </form>
+            <div class="text-center mt-3">
+                <a asp-action="Login" asp-controller="Customer">Already have an account? Login</a>
+            </div>
+        </div>
+    </div>
+</div>
+

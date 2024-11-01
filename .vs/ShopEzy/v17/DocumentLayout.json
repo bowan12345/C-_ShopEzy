@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bwdin\\OneDrive\\Desktop\\ShopEzy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCE7FA0-7F1E-4915-8E1C-FAE0BBA99E8D}|ShopEzy\\ShopEzy.csproj|c:\\users\\bwdin\\onedrive\\desktop\\shopezy\\shopezy\\script.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3DCE7FA0-7F1E-4915-8E1C-FAE0BBA99E8D}|ShopEzy\\ShopEzy.csproj|solutionrelative:shopezy\\script.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCE7FA0-7F1E-4915-8E1C-FAE0BBA99E8D}|ShopEzy\\ShopEzy.csproj|c:\\users\\bwdin\\onedrive\\desktop\\shopezy\\shopezy\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DCE7FA0-7F1E-4915-8E1C-FAE0BBA99E8D}|ShopEzy\\ShopEzy.csproj|solutionrelative:shopezy\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCE7FA0-7F1E-4915-8E1C-FAE0BBA99E8D}|ShopEzy\\ShopEzy.csproj|c:\\users\\bwdin\\onedrive\\desktop\\shopezy\\shopezy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DCE7FA0-7F1E-4915-8E1C-FAE0BBA99E8D}|ShopEzy\\ShopEzy.csproj|solutionrelative:shopezy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCE7FA0-7F1E-4915-8E1C-FAE0BBA99E8D}|ShopEzy\\ShopEzy.csproj|c:\\users\\bwdin\\onedrive\\desktop\\shopezy\\shopezy\\views\\customer\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DCE7FA0-7F1E-4915-8E1C-FAE0BBA99E8D}|ShopEzy\\ShopEzy.csproj|solutionrelative:shopezy\\views\\customer\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCE7FA0-7F1E-4915-8E1C-FAE0BBA99E8D}|ShopEzy\\ShopEzy.csproj|c:\\users\\bwdin\\onedrive\\desktop\\shopezy\\shopezy\\views\\customer\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DCE7FA0-7F1E-4915-8E1C-FAE0BBA99E8D}|ShopEzy\\ShopEzy.csproj|solutionrelative:shopezy\\views\\customer\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCE7FA0-7F1E-4915-8E1C-FAE0BBA99E8D}|ShopEzy\\ShopEzy.csproj|c:\\users\\bwdin\\onedrive\\desktop\\shopezy\\shopezy\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DCE7FA0-7F1E-4915-8E1C-FAE0BBA99E8D}|ShopEzy\\ShopEzy.csproj|solutionrelative:shopezy\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCE7FA0-7F1E-4915-8E1C-FAE0BBA99E8D}|ShopEzy\\ShopEzy.csproj|c:\\users\\bwdin\\onedrive\\desktop\\shopezy\\shopezy\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DCE7FA0-7F1E-4915-8E1C-FAE0BBA99E8D}|ShopEzy\\ShopEzy.csproj|solutionrelative:shopezy\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCE7FA0-7F1E-4915-8E1C-FAE0BBA99E8D}|ShopEzy\\ShopEzy.csproj|c:\\users\\bwdin\\onedrive\\desktop\\shopezy\\shopezy\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DCE7FA0-7F1E-4915-8E1C-FAE0BBA99E8D}|ShopEzy\\ShopEzy.csproj|solutionrelative:shopezy\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCE7FA0-7F1E-4915-8E1C-FAE0BBA99E8D}|ShopEzy\\ShopEzy.csproj|c:\\users\\bwdin\\onedrive\\desktop\\shopezy\\shopezy\\shopezy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3DCE7FA0-7F1E-4915-8E1C-FAE0BBA99E8D}|ShopEzy\\ShopEzy.csproj|solutionrelative:shopezy\\shopezy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCE7FA0-7F1E-4915-8E1C-FAE0BBA99E8D}|ShopEzy\\ShopEzy.csproj|c:\\users\\bwdin\\onedrive\\desktop\\shopezy\\shopezy\\data\\shopezydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DCE7FA0-7F1E-4915-8E1C-FAE0BBA99E8D}|ShopEzy\\ShopEzy.csproj|solutionrelative:shopezy\\data\\shopezydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCE7FA0-7F1E-4915-8E1C-FAE0BBA99E8D}|ShopEzy\\ShopEzy.csproj|c:\\users\\bwdin\\onedrive\\desktop\\shopezy\\shopezy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3DCE7FA0-7F1E-4915-8E1C-FAE0BBA99E8D}|ShopEzy\\ShopEzy.csproj|solutionrelative:shopezy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCE7FA0-7F1E-4915-8E1C-FAE0BBA99E8D}|ShopEzy\\ShopEzy.csproj|c:\\users\\bwdin\\onedrive\\desktop\\shopezy\\shopezy\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DCE7FA0-7F1E-4915-8E1C-FAE0BBA99E8D}|ShopEzy\\ShopEzy.csproj|solutionrelative:shopezy\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCE7FA0-7F1E-4915-8E1C-FAE0BBA99E8D}|ShopEzy\\ShopEzy.csproj|c:\\users\\bwdin\\onedrive\\desktop\\shopezy\\shopezy\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DCE7FA0-7F1E-4915-8E1C-FAE0BBA99E8D}|ShopEzy\\ShopEzy.csproj|solutionrelative:shopezy\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 347,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "script.txt",
+              "DocumentMoniker": "C:\\Users\\bwdin\\OneDrive\\Desktop\\ShopEzy\\ShopEzy\\script.txt",
+              "RelativeDocumentMoniker": "ShopEzy\\script.txt",
+              "ToolTip": "C:\\Users\\bwdin\\OneDrive\\Desktop\\ShopEzy\\ShopEzy\\script.txt",
+              "RelativeToolTip": "ShopEzy\\script.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-09T03:33:50.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\bwdin\\OneDrive\\Desktop\\ShopEzy\\ShopEzy\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "ShopEzy\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\bwdin\\OneDrive\\Desktop\\ShopEzy\\ShopEzy\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "ShopEzy\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAcwGMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T05:12:17.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\bwdin\\OneDrive\\Desktop\\ShopEzy\\ShopEzy\\Views\\Customer\\Register.cshtml",
+              "RelativeDocumentMoniker": "ShopEzy\\Views\\Customer\\Register.cshtml",
+              "ToolTip": "C:\\Users\\bwdin\\OneDrive\\Desktop\\ShopEzy\\ShopEzy\\Views\\Customer\\Register.cshtml",
+              "RelativeToolTip": "ShopEzy\\Views\\Customer\\Register.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T05:05:39.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\bwdin\\OneDrive\\Desktop\\ShopEzy\\ShopEzy\\Views\\Customer\\Login.cshtml",
+              "RelativeDocumentMoniker": "ShopEzy\\Views\\Customer\\Login.cshtml",
+              "ToolTip": "C:\\Users\\bwdin\\OneDrive\\Desktop\\ShopEzy\\ShopEzy\\Views\\Customer\\Login.cshtml",
+              "RelativeToolTip": "ShopEzy\\Views\\Customer\\Login.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T05:05:19.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\bwdin\\OneDrive\\Desktop\\ShopEzy\\ShopEzy\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ShopEzy\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\bwdin\\OneDrive\\Desktop\\ShopEzy\\ShopEzy\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ShopEzy\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAEBRwBsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T04:58:49.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bwdin\\OneDrive\\Desktop\\ShopEzy\\ShopEzy\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShopEzy\\Views\\Customer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bwdin\\OneDrive\\Desktop\\ShopEzy\\ShopEzy\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "ShopEzy\\Views\\Customer\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T04:55:01.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShopEzy.csproj",
+              "DocumentMoniker": "C:\\Users\\bwdin\\OneDrive\\Desktop\\ShopEzy\\ShopEzy\\ShopEzy.csproj",
+              "RelativeDocumentMoniker": "ShopEzy\\ShopEzy.csproj",
+              "ToolTip": "C:\\Users\\bwdin\\OneDrive\\Desktop\\ShopEzy\\ShopEzy\\ShopEzy.csproj",
+              "RelativeToolTip": "ShopEzy\\ShopEzy.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-05T04:50:43.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bwdin\\OneDrive\\Desktop\\ShopEzy\\ShopEzy\\Program.cs",
+              "RelativeDocumentMoniker": "ShopEzy\\Program.cs",
+              "ToolTip": "C:\\Users\\bwdin\\OneDrive\\Desktop\\ShopEzy\\ShopEzy\\Program.cs",
+              "RelativeToolTip": "ShopEzy\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T04:18:29.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ShopEzyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\bwdin\\OneDrive\\Desktop\\ShopEzy\\ShopEzy\\Data\\ShopEzyDbContext.cs",
+              "RelativeDocumentMoniker": "ShopEzy\\Data\\ShopEzyDbContext.cs",
+              "ToolTip": "C:\\Users\\bwdin\\OneDrive\\Desktop\\ShopEzy\\ShopEzy\\Data\\ShopEzyDbContext.cs",
+              "RelativeToolTip": "ShopEzy\\Data\\ShopEzyDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T04:13:11.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\bwdin\\OneDrive\\Desktop\\ShopEzy\\ShopEzy\\appsettings.json",
+              "RelativeDocumentMoniker": "ShopEzy\\appsettings.json",
+              "ToolTip": "C:\\Users\\bwdin\\OneDrive\\Desktop\\ShopEzy\\ShopEzy\\appsettings.json",
+              "RelativeToolTip": "ShopEzy\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-05T04:08:33.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\bwdin\\OneDrive\\Desktop\\ShopEzy\\ShopEzy\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "ShopEzy\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\bwdin\\OneDrive\\Desktop\\ShopEzy\\ShopEzy\\Models\\Transaction.cs",
+              "RelativeToolTip": "ShopEzy\\Models\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T03:50:16.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\bwdin\\OneDrive\\Desktop\\ShopEzy\\ShopEzy\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ShopEzy\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\bwdin\\OneDrive\\Desktop\\ShopEzy\\ShopEzy\\Models\\Product.cs",
+              "RelativeToolTip": "ShopEzy\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T03:50:02.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\bwdin\\OneDrive\\Desktop\\ShopEzy\\ShopEzy\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "ShopEzy\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\bwdin\\OneDrive\\Desktop\\ShopEzy\\ShopEzy\\Models\\Customer.cs",
+              "RelativeToolTip": "ShopEzy\\Models\\Customer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T03:49:48.759Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 93,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{28836128-fc2c-11d2-a433-00c04f72d18a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
